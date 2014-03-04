@@ -1,0 +1,9 @@
+#Ignore files ending in a '.o' or a '.a', keeps build files out of the repo
+*.[oa]
+
+#Ignore the binary directory, keeps binaries out of the repo
+bin/
+
+#Ignore the object directory, keeps build files out of the repo
+obj/
+
