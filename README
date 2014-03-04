@@ -1,7 +1,2 @@
 Repository of my solution to Project Euler Problem 1
 (projecteuler.net/problem=1).
-
-Written using the Code::Blocks IDE. The source for my solution is all in main.c
-and binaries are in "./bin/", other files can safely be ignored if you are 
-using a different development environment.
-
